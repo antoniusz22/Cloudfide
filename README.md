@@ -1,4 +1,4 @@
-# Cloudfide Virtual Column Utility
+# Cloudfide recruitment task
 
 This project provides a utility function to add a virtual column to a pandas DataFrame based on a mathematical expression involving existing columns.
 
